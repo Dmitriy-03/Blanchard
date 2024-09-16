@@ -1,4 +1,4 @@
-@media (max-width:1600px) {
+@media (max-width: 1600px) {
   .header__container {
     flex-wrap: wrap;
   }
@@ -8,7 +8,6 @@
     justify-content: center;
     padding-top: 18px;
     order: 1;
-    overflow-x: hidden;
     width: 100%;
     white-space: nowrap;
     text-align: center;
@@ -41,14 +40,14 @@
   }
 }
 
-@media (max-width:1300px) {
+@media (max-width: 1300px) {
   .container {
     padding-left: 50px;
     padding-right: 50px;
   }
 
   .header__container {
-    padding-top: 32px
+    padding-top: 32px;
   }
 
   .header__element2 {
@@ -189,7 +188,7 @@
 
   .form-btn {
     width: 340px;
-    padding: 14px 0 14px 0px
+    padding: 14px 0 14px 0px;
   }
 
   .footer-link svg {
@@ -204,7 +203,7 @@
   }
 }
 
-@media (max-width:1023px) {
+@media (max-width: 1023px) {
   .header__container {
     padding-top: 32px;
   }
@@ -337,7 +336,7 @@
   }
 }
 
-@media (max-width:760px) {
+@media (max-width: 760px) {
   .container {
     padding-left: 15px;
     padding-right: 15px;
@@ -458,10 +457,9 @@
     width: 50px;
     height: 50px;
   }
-
 }
 
-@media (max-width:449px) {
+@media (max-width: 449px) {
   .header__container {
     padding-top: 16px;
     padding-bottom: 13px;
@@ -647,7 +645,7 @@
   }
 }
 
-@media (min-width:450px) {
+@media (min-width: 450px) {
   .for-small-screens {
     display: none;
   }
